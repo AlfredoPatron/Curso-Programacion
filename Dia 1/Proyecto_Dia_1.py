@@ -1,0 +1,1 @@
+print("El nombre Final de tu Marca\nes '" + input("¿Cuál es tu Dios Griego favorito?: ") + " " + input("¿Cuál es tu color favorito?: ") + "'")
